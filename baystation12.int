@@ -5,7 +5,5 @@ DIR: maps maps\overmap maps\overmap\bearcat maps\RandomZLevels
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 509.1318
-WINDOW: maps\exodus-1.dmm;maps\oldstation.dmm
-FILE: maps\exodus-1.dmm
 */
 // END_INTERNALS
